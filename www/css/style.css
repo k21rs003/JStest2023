@@ -1,7 +1,7 @@
 /**/
 
 html,body {
-  background: skyblue;
+  background: rgb(250, 167, 99);
   height: 100%;
 }
 
@@ -20,5 +20,5 @@ html,body {
 
 #btn::after {
   content: "▶";
-  color: red;
+  color: rgb(0, 132, 255);
 }
